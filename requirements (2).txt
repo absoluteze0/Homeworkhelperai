@@ -1,3 +1,4 @@
 streamlit==1.41.1
 crewai==1.15.17
 openai==1.35.10
+setuptools<82
